@@ -1,0 +1,1 @@
+how to make repo in git and then push in github.
